@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioButtonApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="radio_male">MALE</string>
+    <string name="radio_female">FEMALE</string>
+    <string name="btn_display">DISPLAY</string>
+</resources>
